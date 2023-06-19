@@ -1,0 +1,10 @@
+.hov:hover{
+    transform: scale(1.5);
+}
+.foodList{
+    overflow-y: scroll;
+}
+
+.foodList::-webkit-scrollbar{
+    display: none;
+}

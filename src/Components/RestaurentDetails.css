@@ -1,0 +1,23 @@
+.rating{
+    color: rgb(240, 227, 227);
+}
+.ifrating{
+    color: rgb(24, 211, 90);
+}
+
+/* 
+.shrinkAbout{
+ 
+   position: sticky;top: 0;
+} */
+.about{
+
+transition: 1s ease ;
+
+
+    }
+.aboutT{
+    height: 80%;
+    
+
+}
